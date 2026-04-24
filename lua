@@ -7,7 +7,7 @@ spawn(function()
     while true do
         local shake = backpack:FindFirstChild("Tropical Shake")
         if not shake then
-            warn("✅ Ya no quedan Tropical Shakes en el inventario.")
+            warn("Auto Eat Shake ทำงานแล้ว")
             break
         end
 
